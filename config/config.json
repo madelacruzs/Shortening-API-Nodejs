@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "dyjwubih",
-    "password": "YQYN7oh_-C2GcC9NnlKQTG-MucaSLcGy",
+    "password": "",
     "database": "dyjwubih",
     "host": "stampy.db.elephantsql.com",
     "dialect": "postgres",
@@ -9,7 +9,7 @@
   },
   "test": {
     "username": "dyjwubih",
-    "password": "YQYN7oh_-C2GcC9NnlKQTG-MucaSLcGy",
+    "password": "",
     "database": "dyjwubih",
     "host": "stampy.db.elephantsql.com",
     "dialect": "postgres",
@@ -17,7 +17,7 @@
   },
   "production": {
     "username": "dyjwubih",
-    "password": "YQYN7oh_-C2GcC9NnlKQTG-MucaSLcGy",
+    "password": "",
     "database": "dyjwubih",
     "host": "stampy.db.elephantsql.com",
     "dialect": "postgres",
