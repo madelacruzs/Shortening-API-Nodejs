@@ -1,21 +1,21 @@
 {
-  "name": "shortening-api",
-  "version": "1.0.0",
-  "description": "simple service to shorten urls",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "author": "Miguel Angel De La Cruz",
-  "license": "ISC",
-  "dependencies": {
-    "atob": "^2.1.2",
-    "body-parser": "^1.18.3",
-    "btoa": "^1.2.1",
-    "express": "^4.16.4",
-    "pg": "^7.8.0",
-    "sequelize": "^4.42.0",
-    "sequelize-cli": "^5.4.0"
-  }
+	"name": "shortening-api",
+	"version": "1.0.0",
+	"description": "simple service to shorten urls",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"author": "Miguel Angel De La Cruz",
+	"license": "ISC",
+	"dependencies": {
+		"atob": "^2.1.2",
+		"body-parser": "^1.18.3",
+		"btoa": "^1.2.1",
+		"express": "^4.16.4",
+		"pg": "^7.8.0",
+		"sequelize": "^4.42.0",
+		"sequelize-cli": "^5.4.0"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "development": {
-    "username": "dyjwubih",
-    "password": "",
-    "database": "dyjwubih",
-    "host": "stampy.db.elephantsql.com",
-    "dialect": "postgres",
-    "logging": false
-  },
-  "test": {
-    "username": "dyjwubih",
-    "password": "",
-    "database": "dyjwubih",
-    "host": "stampy.db.elephantsql.com",
-    "dialect": "postgres",
-    "logging": false
-  },
-  "production": {
-    "username": "dyjwubih",
-    "password": "",
-    "database": "dyjwubih",
-    "host": "stampy.db.elephantsql.com",
-    "dialect": "postgres",
-    "logging": false
-  }
+	"development": {
+		"username": "",
+		"password": "",
+		"database": "",
+		"host": "stampy.db.elephantsql.com",
+		"dialect": "postgres",
+		"logging": false
+	},
+	"test": {
+		"username": "",
+		"password": "",
+		"database": "",
+		"host": "stampy.db.elephantsql.com",
+		"dialect": "postgres",
+		"logging": false
+	},
+	"production": {
+		"username": "",
+		"password": "",
+		"database": "",
+		"host": "stampy.db.elephantsql.com",
+		"dialect": "postgres",
+		"logging": false
+	}
 }
