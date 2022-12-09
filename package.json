@@ -13,7 +13,7 @@
 		"atob": "^2.1.2",
 		"body-parser": "^1.18.3",
 		"btoa": "^1.2.1",
-		"express": "^4.16.4",
+		"express": "^4.17.3",
 		"pg": "^7.8.0",
 		"sequelize": "^4.42.0",
 		"sequelize-cli": "^5.4.0"
